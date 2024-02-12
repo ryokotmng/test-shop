@@ -48,7 +48,7 @@ body {
 }
 
 .heading_container h2 span {
-  color: #f89cab;
+  color: #ffc0cb;
 }
 
 .heading_container.heading_center {
@@ -235,7 +235,7 @@ a:focus {
 .slider_section .slider_container {
   color: #fefefe;
   background-color: #000000;
-  background-color: #f89cab;
+  background-color: #ffc0cb;
   padding: 25px;
   border-radius: 0 0 15px 15px;
 }
@@ -274,9 +274,9 @@ a:focus {
 .slider_section .detail-box a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #db4566;
+  background-color: #ffc0cb;
   color: #ffffff;
-  border: 1px solid #db4566;
+  border: 1px solid #ffc0cb;
   border-radius: 5px;
   -webkit-transition: all .3s;
   transition: all .3s;
@@ -781,7 +781,7 @@ a:focus {
   outline: none;
   border: none;
   color: #ffffff;
-  background: #f89cab;
+  background: #4682b4;
   margin-top: 15px;
   text-transform: uppercase;
 }
